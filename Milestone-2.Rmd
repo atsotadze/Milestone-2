@@ -1,0 +1,19 @@
+---
+title: "Milestone #2"
+author: "Alex Tsotadze"
+date: "2/19/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## 1
+Buddy Ball: Understanding NBA Finances Amidst COVID-19 - 
+I think one of the best things about this project is how well the author explains what each variable and graph represent and how these findings are statiscialy significant to the overall valuations of different NBA teams. Additionally, the tab on the website which contains three case studies provides helpful insights into different teams that can be categoregizes as "Big Market," "Middle Market," and "Small Market." This case study is particularly helpful because it helps group teams by size, thus normalizing the results and comparing teams to relevant "comps." However, one drawback to the project is the dataset (Buddy discusses this as well). Because the data is only from February, it becomes difficult to extrapolate any meaningful findings. Therefore, although the findings in the project are meaningful, they are limited in terms of revealing the effects of COVID-19 on the NBA.
+
+## 2 
+Analyzing @realDonaldTrump: A Deep Dive Into Donald Trump's Tweets - 
+This project has an incredibly powerful model component with very robust and sophisticated graphs as well as regressions. I was particularly impressed by the analysis done on the Models tab. It was particularly helpful to have side by side blurbs describing the findings in the charts. However, one drawback of the project was that it was challenging to follow at times. The organization of the webpage made it difficult to initially understand what was going on and what each variable meant. I think that the initial page should have opened up on the About page as well as describing the variables. The findings are incredibly powerful in the website however it is difficult to digest in some parts and can be initially confusing.
+
